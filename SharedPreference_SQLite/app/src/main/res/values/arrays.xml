@@ -1,0 +1,14 @@
+<!-- res/values/arrays.xml -->
+<resources>
+    <string-array name="images">
+        <item>phone</item>
+        <item>phone2</item>
+        <item>phone3</item>
+        <item>laptop</item>
+        <item>laptop2</item>
+        <item>laptop3</item>
+        <item>pod</item>
+        <item>charger</item>
+        <item>headphone</item>
+    </string-array>
+</resources>

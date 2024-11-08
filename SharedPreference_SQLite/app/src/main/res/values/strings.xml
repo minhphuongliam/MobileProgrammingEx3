@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharedPreference_SQLite</string>
+    <string name="student_info">User</string>
+</resources>
